@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <TARIFAS>
+        <CATEGORIA>Children's</CATEGORIA>
+        <PRECIO>5€</PRECIO>
+        <REQUISITOS>Under 16 years old</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Adults</CATEGORIA>
+        <PRECIO>10€</PRECIO>
+        <REQUISITOS>Over 16 years old</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Babies</CATEGORIA>
+        <PRECIO>Free</PRECIO>
+        <REQUISITOS>Between 0 and 3 years</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>With discount for being a student</CATEGORIA>
+        <PRECIO>7€</PRECIO>
+        <REQUISITOS>Have a student card</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>With discount for number of people</CATEGORIA>
+        <PRECIO>6€</PRECIO>
+        <REQUISITOS>Buy more than 10 tickets together</REQUISITOS>
+    </TARIFAS>
+</CATALOGO>

@@ -1,0 +1,11 @@
+{
+    "tienda":[
+        {"nombre":"Shirt with Tyranosaurus drawing","foto":"https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C91XKXwqCC0L.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UY580_.png","precio": "30"},
+        {"nombre":"Museum cap","foto":"https://i.pinimg.com/originals/61/3b/3d/613b3d7b75b541b63b14f41c1ff2dd67.png","precio": "15"},
+        {"nombre":"Triceratops drawing shirt","foto":"https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C81EGC3KtnUL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_UY580_.png","precio": "30"},
+        {"nombre":"Dinosaur Backpack","foto":"https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/5903162120102_1.jpg","precio": "40"},
+        {"nombre":"Dinosaur canteen","foto":"https://m.media-amazon.com/images/I/41dX5l5lnBL.jpg","precio": "20"},
+        {"nombre":"Dinosaur shoes","foto":"https://i.etsystatic.com/9665455/r/il/de7d85/2777727822/il_570xN.2777727822_i6hh.jpg","precio": "70"}
+
+    ]
+}

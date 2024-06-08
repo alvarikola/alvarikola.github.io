@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOGO>
+    <TARIFAS>
+        <CATEGORIA>Niños</CATEGORIA>
+        <PRECIO>5€</PRECIO>
+        <REQUISITOS>Menor de 16 años</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Adultos</CATEGORIA>
+        <PRECIO>10€</PRECIO>
+        <REQUISITOS>Mayor de 16 años</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Bebes</CATEGORIA>
+        <PRECIO>Gratis</PRECIO>
+        <REQUISITOS>Entre 0 y 3 años</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Con descuento por ser estudiante</CATEGORIA>
+        <PRECIO>7€</PRECIO>
+        <REQUISITOS>Tener un carnet de estudiante</REQUISITOS>
+    </TARIFAS>
+    <TARIFAS>
+        <CATEGORIA>Con descuento por numero de personas</CATEGORIA>
+        <PRECIO>6€</PRECIO>
+        <REQUISITOS>Comprar más de 10 entradas juntas</REQUISITOS>
+    </TARIFAS>
+</CATALOGO>
