@@ -350,7 +350,7 @@ main{
     grid-template: 
     "t1 t2 t3";
     gap: 40px;
-    /* border: solid 2px blue; */
+    padding-left: 70px;
     
 }
 @media (max-width: 1300px) {
